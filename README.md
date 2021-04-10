@@ -1,0 +1,2 @@
+# about-open-document-project
+一般社団法人Pythonエンジニア育成推進協会が進めるオープンドキュメントの概要をまとめるレポジトリです。
