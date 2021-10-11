@@ -30,18 +30,15 @@ Python初学者向けドキュメントを作成し、公開を行うもので�
 
 ### 利用と改編
 
-TODO: 別途、ライセンス条項をとりまとめている。以下には簡単に注記を記載予定
-
 - ライセンス
-- 自由な利用
-- 自由に改編
+
+本オーガナイザー([https://github.com/python-ed-open-doc](https://github.com/python-ed-open-doc))内のレポジトリのドキュメント等は、「クリエイティブ・コモンズ 表⽰ 4.0 国際」ライセンスのもとで公開されています。
+
+詳細は、 `LICENSE.md` を参照してください。
+
 - 変更提案の受付
 
+本オーガナイザー([https://github.com/python-ed-open-doc](https://github.com/python-ed-open-doc))内のレポジトリのドキュメント等は、寄稿・貢献等を行うことができます。
 
-## レポジトリ構成
-
-TBD
-
-
-
+詳細は、 `CONTRIBUTING.md` を参照してください。
 
