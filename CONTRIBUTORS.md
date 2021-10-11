@@ -8,4 +8,5 @@ LICENSE.md 及び CONTRIBUTING.md に記載されている、オープンドキ�
 # 貢献者リスト
 
 - Manabu TERADA (terapyon) 2021-04-10
+- Takanori Suzuki (takanory) 2021-10-11
 - あなたの名前 (GitHub ID) YYYY-MM-DD
