@@ -30,13 +30,13 @@ Python初学者向けドキュメントを作成し、公開を行うもので�
 
 ### 利用と改編
 
-- ライセンス
+#### ライセンス
 
 本オーガナイザー([https://github.com/python-ed-open-doc](https://github.com/python-ed-open-doc))内のレポジトリのドキュメント等は、「クリエイティブ・コモンズ 表⽰ 4.0 国際」ライセンスのもとで公開されています。
 
 詳細は、 `LICENSE.md` を参照してください。
 
-- 変更提案の受付
+#### 変更提案の受付
 
 本オーガナイザー([https://github.com/python-ed-open-doc](https://github.com/python-ed-open-doc))内のレポジトリのドキュメント等は、寄稿・貢献等を行うことができます。
 
