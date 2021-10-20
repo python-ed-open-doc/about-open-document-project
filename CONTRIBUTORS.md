@@ -11,4 +11,5 @@ LICENSE.md 及び CONTRIBUTING.md に記載されている、オープンドキ�
 - Takanori Suzuki (takanory) 2021-10-11
 - Ryuji Tsutsui (ryu22e) 2021-10-18
 - Kei IWASAKI (laughk) 2021-10-19
+- Shingo Tsuji (tsjshg) 2021-10-20
 - あなたの名前 (GitHub ID) YYYY-MM-DD
